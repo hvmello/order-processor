@@ -28,3 +28,6 @@ logs/
 # Spring Boot
 *.pid
 spring-shell.log
+
+# Claude Code
+.claude/
